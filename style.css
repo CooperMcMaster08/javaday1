@@ -1,0 +1,10 @@
+#title {
+    color: black;
+    font-size:30px;
+}
+#paragraph {
+    color: black
+}
+#hiddenText {
+    visibility:hidden;
+}
